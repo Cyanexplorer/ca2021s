@@ -620,7 +620,7 @@ $
 				*/
 				loader.load
 				(
-					'./Tda式藤原千花/TDA式藤原千花.pmx',
+					'./Tdachika/TDAchika.pmx',
 					function(object)
 					{
 						
